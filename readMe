@@ -15,5 +15,3 @@
 // npx playwright codegen                                  //Open terminal and run codegen for record and generate code.  
 
 // npx playwright test --ui                                //Open UI mode.
-
-//revert
